@@ -1,0 +1,4 @@
+**/*.zip
+**/*.csv
+**/*.gz
+**/data_batch_*
